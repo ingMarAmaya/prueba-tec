@@ -7,8 +7,9 @@
   <div>
     <buscador></buscador>
   </div>
-  <div class="clearFix">
-
+  <div class="clearFix"></div>
+  <div class="tarjetas">
+    <tarjeta></tarjeta>
   </div>
 </template>
 

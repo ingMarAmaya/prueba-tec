@@ -46,13 +46,19 @@
         width: 100px;
         display: block;
         float: left;
-        height: 100px;
-        line-height: 100px;
+        /* border-right: 1px solid #ccc; */
+        margin: 10px 10px 0px 10px;
+        /* height: 100px;
+        line-height: 100px; */
     }
 
     ul li a{
         color: white;
-        padding: 15px;
+        /* padding: 10px 20px; */
+        font-size: 20px;
+        width: 50px;
+        height: 100px;
+        line-height: 100px;
     }
     .clearFix{
         float: none;

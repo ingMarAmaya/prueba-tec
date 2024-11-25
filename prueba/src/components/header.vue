@@ -23,6 +23,11 @@
 <style scoped>
     .encabezado{
         margin: 0px auto;
+        width: 70%;
+        height: 100px;
+        line-height: 100px;
+        font-size: 18px;
+        background-color: #ccc;
     }
     h1{
         display: block;

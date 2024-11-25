@@ -27,7 +27,11 @@
         height: 100px;
         line-height: 100px;
         font-size: 18px;
-        background-color: #ccc;
+        background-color: transparent;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        backdrop-filter: blur(20px);
+        box-shadow: 0 0 10px rgba(0,0,0,.2);
     }
     .encabezado h1{
         display: block;

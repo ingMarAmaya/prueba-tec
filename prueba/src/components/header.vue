@@ -48,9 +48,10 @@
         display: block;
         float: left;
         /* border-right: 1px solid #ccc; */
-        margin: 10px 10px 0px 10px;
-        /* height: 100px;
-        line-height: 100px; */
+        /* margin: 10px 10px 0px 10px; */
+        min-height: 100px;
+        line-height: 100px;
+        margin-right: 10px
     }
 
     ul li a{
@@ -62,11 +63,14 @@
         line-height: 100px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-weight: 500;
+        text-align: center;
     }
-    /* ul li:hover{
+    ul li:hover{
         background-color: white;
-        color: navy;
-    } */
+    }
+    ul li a:hover{
+        color: navy
+    }
     .clearFix{
         float: none;
         clear: both;

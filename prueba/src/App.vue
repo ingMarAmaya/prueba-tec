@@ -1,4 +1,5 @@
 <script setup>
+  import header from './components/header.vue';
   import buscador from './components/buscador.vue';
   import tarjetas from './components/tarjetas.vue';
 </script>

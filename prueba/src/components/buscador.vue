@@ -10,5 +10,12 @@
     </nav>
 </template>
 <style scoped>
-    
+    .form-control{
+        display: block;
+        float: right;
+        width: 250px;
+        height: 30px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
 </style>

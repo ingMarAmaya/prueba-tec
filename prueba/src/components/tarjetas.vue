@@ -4,9 +4,15 @@
 <template>
     <div>
         <section>
-            <article></article>
-            <article></article>
-            <article></article>
+            <article>
+                <h2>Producto: </h2>
+            </article>
+            <article>
+                <p>Precio: </p>
+            </article>
+            <article>
+                <p>Descripción: </p>
+            </article>
         </section>
     </div>
 </template>

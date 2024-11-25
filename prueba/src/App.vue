@@ -9,6 +9,9 @@ import Header from './components/header.vue';
   <div>
     <Header></Header>
     <buscador></buscador>
+    <tarjetas></tarjetas>
+    <tarjetas></tarjetas>
+    <tarjetas></tarjetas>
   </div>
   <div class="clearFix"></div>
   <div class="tarjetas">

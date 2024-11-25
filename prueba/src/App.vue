@@ -2,11 +2,12 @@
   import encabezado from './components/header.vue';
   import buscador from './components/buscador.vue';
   import tarjetas from './components/tarjetas.vue';
+import Header from './components/header.vue';
 </script>
 
 <template>
   <div>
-    <encabezado></encabezado>
+    <Header></Header>
     <buscador></buscador>
   </div>
   <div class="clearFix"></div>

@@ -25,6 +25,7 @@
         border-radius: 5px;
         border: 1px solid #ccc;
         margin: 15px;
+        padding: 10px;
     }
     .btn{
         display: block;
@@ -36,6 +37,7 @@
         margin: 15px;
         background: transparent;
         color: white;
+        cursor: pointer
     }
     .clearFix{
         float: none;

@@ -1,5 +1,6 @@
 <script setup>
   import buscador from './components/buscador.vue';
+  import tarjetas from './components/tarjetas.vue';
 </script>
 
 <template>

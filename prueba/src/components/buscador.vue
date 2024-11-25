@@ -19,15 +19,27 @@
     }
     .form-control{
         display: block;
-        float: right;
+        float: left;
         width: 250px;
         height: 30px;
         border-radius: 5px;
         border: 1px solid #ccc;
         margin: 15px;
     }
+    .btn{
+        display: block;
+        float: left;
+        width: 50px;
+        height: 30px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        margin: 15px;
+        background: transparent;
+        color: white;
+    }
     .clearFix{
         float: none;
         clear: both;
     }
+    
 </style>

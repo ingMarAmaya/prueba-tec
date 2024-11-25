@@ -18,4 +18,8 @@
         border-radius: 5px;
         border: 1px solid #ccc;
     }
+    .clearFix{
+        float: none;
+        clear: both;
+    }
 </style>

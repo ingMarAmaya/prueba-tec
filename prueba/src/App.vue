@@ -6,6 +6,9 @@
   <div>
     <buscador></buscador>
   </div>
+  <div class="clearFix">
+
+  </div>
 </template>
 
 <style>

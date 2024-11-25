@@ -14,9 +14,6 @@ import Header from './components/header.vue';
     <tarjetas></tarjetas>
   </div>
   <div class="clearFix"></div>
-  <div class="tarjetas">
-    <tarjeta></tarjeta>
-  </div>
 </template>
 
 <style>

@@ -29,19 +29,26 @@
         font-size: 18px;
         background-color: #ccc;
     }
-    h1{
+    .encabezado h1{
         display: block;
         float: left;
         height: 100px;
         line-height: 100px;
         width: 200px;
+        color: white;
+        padding: 15px;
     }
     ul li{
-        width: 150px;
+        width: 100px;
         display: block;
         float: left;
         height: 100px;
         line-height: 100px;
+    }
+
+    ul li a{
+        color: white;
+        padding: 15px;
     }
     .clearFix{
         float: none;

@@ -22,4 +22,8 @@ import Header from './components/header.vue';
     padding: 0px;
     text-decoration: none;
   }
+  body{
+    background: url(./img/fondo.jpg);
+    background-size: cover;
+  }
 </style>

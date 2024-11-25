@@ -10,6 +10,13 @@
     </nav>
 </template>
 <style scoped>
+    .form-inline{
+        margin: 0px auto;
+        background-color: darkorchid;
+        width: 70%;
+        height: 100px;
+        line-height: 100px;
+    }
     .form-control{
         display: block;
         float: right;
@@ -17,6 +24,7 @@
         height: 30px;
         border-radius: 5px;
         border: 1px solid #ccc;
+        margin: 15px;
     }
     .clearFix{
         float: none;

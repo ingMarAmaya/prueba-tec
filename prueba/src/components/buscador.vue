@@ -12,7 +12,7 @@
 <style scoped>
     .form-inline{
         margin: 0px auto;
-        background-color: darkorchid;
+        background-color: transparent;
         width: 70%;
         height: 100px;
         line-height: 100px;

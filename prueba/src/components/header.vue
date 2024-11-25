@@ -41,6 +41,7 @@
         width: 200px;
         color: white;
         padding: 15px;
+        font-family: Arial, Helvetica, sans-serif
     }
     ul li{
         width: 100px;
@@ -55,11 +56,17 @@
     ul li a{
         color: white;
         /* padding: 10px 20px; */
-        font-size: 20px;
+        font-size: 17px;
         width: 50px;
         height: 100px;
         line-height: 100px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 500;
     }
+    /* ul li:hover{
+        background-color: white;
+        color: navy;
+    } */
     .clearFix{
         float: none;
         clear: both;

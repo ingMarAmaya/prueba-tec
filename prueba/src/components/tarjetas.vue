@@ -29,8 +29,15 @@
         padding: 15px;
     }
     .tarjeta h2{
-        color: white;
+        color: Navy;
         text-align: center;
         padding: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .tarjeta p{
+        color: white;
+        text-align: justify;
+        padding: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 </style>

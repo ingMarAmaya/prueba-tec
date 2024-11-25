@@ -20,5 +20,6 @@ import Header from './components/header.vue';
   *{
     margin: 0px;
     padding: 0px;
+    text-decoration: none;
   }
 </style>
